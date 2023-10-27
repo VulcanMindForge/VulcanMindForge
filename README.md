@@ -1,7 +1,7 @@
 # Hi 👋, I'm Jacob Stuart
 ### Programming student with Skill Distillery
 
-- I’m currently working on [BlackJackProject](https://github.com/VulcanMindForge/BlackJackProject)
+- I’m currently working on [BlackjackProject](https://github.com/VulcanMindForge/BlackjackProject)
 
 - I’m currently learning **Java**
 
